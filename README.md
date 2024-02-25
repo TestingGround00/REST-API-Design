@@ -28,19 +28,3 @@ Submit your OpenAPI spec in the form of a yaml file attachment or link to your y
 Note: If submitting anything as a link, it must be accessible to anyone with the link. You will not receive credit if your link is private, broken, or inaccessible.
 
 
-Grading (6 points total)
-(2 points) Business process sequence diagram with at least 4 potential services/APIs (i.e. 4 round trip request/responses)
-For each service:
-0.25 points for listing (in the diagram) what information would need to be included in the request from the client (you/the customer).
-0.25 points for listing (in the diagram) what information would need to be included in the response from the server (movie theater).
-(4 points) OpenAPI specification: 
-Basic information (1 point): 
-Includes the version, “info” section (with non-trivial description), and “paths” section with relevant endpoints (note: the endpoints do not need to be real/functional)
-GET (1 point):
-Includes summary, parameters (if applicable), and at least two responses (ex: 200 OK & 404 Not Found)
-POST (1 point):
-Includes summary, requestBody, and at least two responses
-DELETE (1 point):
-Includes summary and at least three responses
-
-
