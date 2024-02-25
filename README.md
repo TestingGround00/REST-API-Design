@@ -2,20 +2,16 @@
 REST API Design Assignment
 
 Overview
+
 Designing a good API for any given business process requires having a strong understanding of the entire process. This helps ensure you have thought of the different use cases, error scenarios, and other design considerations.
 Writing high-quality API documentation is one of the most important steps in designing, building, and having other developers use your API. Luckily, there are pre-defined guidelines/specifications that make it easy for REST APIs to be understood by other software engineers. 
 
-Resources
-REST API Design
-OpenAPI specification
-Basic structure of an OpenAPI spec
-Swagger vs OpenAPI
-API overview & API Documentation Best Practices (same source)
-
 Assumptions 
+
 This assignment assumes you have foundational knowledge of what a REST API is. If you don’t yet, there are great introduction articles and youtube explanations available. Start with those first!
 
 Instructions
+
 Review all links in the “Resources” section before attempting this assignment! 
 In this assignment you will be drawing out the end-to-end business process of someone who is buying movie tickets online, using a client/server UML Sequence Diagram (example). 
 Specifically, you should highlight process steps that would require a transfer of information between the customer’s device and the movie theater’s servers (ex: getting movie times, selecting a seat, making a payment, etc.). 
